@@ -1,5 +1,5 @@
 {
-  "name": "button",
+  "name": "@leonardo-reciprocity/button",
   "version": "0.0.2",
   "description": "",
   "main": "index.js",
@@ -8,5 +8,5 @@
   },
   "author": "",
   "license": "ISC",
-  "gitHead": "7dae4dbaafb05f82095b5d2f612873fa7c3d5608"
+  "gitHead": "8ec61b294386c8beee63b6cc8849d5e2220a8196"
 }
