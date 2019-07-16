@@ -10,6 +10,7 @@
   "license": "ISC",
   "gitHead": "66ccb3c4194990e7e1e813ad0bcfa87bae7505f1",
   "dependencies": {
-    "react": "^16.8.6"
+    "react": "^16.8.6",
+    "react-router-dom": "^5.0.1"
   }
 }
